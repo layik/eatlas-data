@@ -4,6 +4,7 @@ output: github_document
 knit: (function(inputFile, encoding) { rmarkdown::render(inputFile, encoding = encoding, output_file = paste0(dirname(inputFile),'/README.md')) })
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE)
 ```
@@ -57,6 +58,11 @@ download.file(geoURL, file.path(d, "lad.geojson"))
 Now, feel free to explore this using `sf` or any other way you do your geoprocessing but there will be a column named `la_code` as `tgver` will need a matching column name to put the two files together.
 
 ## `tgver::explore_dir`
+Make sure you have `tgver`
+
+```{r, eval=FALSE}
+install.packages("tgver")
+```
 
 Step three:
 ```{r, eval=FALSE}
@@ -65,14 +71,14 @@ tgver::explore_dir(d)
 
 We can do even better, all we have to do is get the data somewhere, so I added it to the `tgve/example-data` repository, therefore we can do:
 
-```{r, out.width="100%"}
+```{r final, out.width="100%"}
+# the link to browse
+# https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code
 dataURL = "https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv"
 app = "https://tgve.github.io/app/"
 knitr::include_url(paste0(
   app, "?defaultURL=", dataURL, "&geographyURL=", geoURL, "&geographyColumn=la_code"
 ))
-# which is for you to browse
-# https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code
 ```
 
 

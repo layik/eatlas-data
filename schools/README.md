@@ -115,6 +115,12 @@ need a matching column name to put the two files together.
 
 ## `tgver::explore_dir`
 
+Make sure you have `tgver`
+
+``` r
+install.packages("tgver")
+```
+
 Step three:
 
 ``` r
@@ -125,6 +131,8 @@ We can do even better, all we have to do is get the data somewhere, so I
 added it to the `tgve/example-data` repository, therefore we can do:
 
 ``` r
+# the link to browse
+# https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code
 dataURL = "https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv"
 app = "https://tgve.github.io/app/"
 knitr::include_url(paste0(
@@ -132,9 +140,4 @@ knitr::include_url(paste0(
 ))
 ```
 
-<a href="https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code" target="_blank"><img src="/home/layik/code/tgve/eatlas-data/schools/README_files/figure-gfm/unnamed-chunk-6-1.png" width="100%" /></a>
-
-``` r
-# which is for you to browse
-# https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code
-```
+<a href="https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code" target="_blank"><img src="/home/layik/code/tgve/eatlas-data/schools/README_files/figure-gfm/final-1.png" width="100%" /></a>
