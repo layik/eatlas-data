@@ -49,8 +49,8 @@ data %>% group_by(ranking, la_code, name) %>% summarise(ranking_count = n()) %>%
 The reason I named second column `la_code` is that I know we have that Local Authority District geographies over at SaferActive project here. We can of course download the file and save it in the same directory:
 
 ```{r}
-download.file("https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson", 
-              file.path(d, "lad.geojson"))
+geoURL = "https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson"
+download.file(geoURL, file.path(d, "lad.geojson"))
 ```
 
 Now, feel free to explore this using `sf` or any other way you do your geoprocessing but there will be a column named `la_code` as `tgver` will need a matching column name to put the two files together.
@@ -63,5 +63,15 @@ tgver::explore_dir(d)
 ```
 
 We can do even better, all we have to do is get the data somewhere, so I added it to the `tgve/example-data` repository, therefore we can do:
+
+```{r, out.width="100%"}
+dataURL = "https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv"
+app = "https://tgve.github.io/app/"
+knitr::include_url(paste0(
+  app, "?defaultURL=", dataURL, "&geographyURL=", geoURL, "&geographyColumn=la_code"
+))
+# which is for you to browse
+# https://tgve.github.io/app/?defaultURL=https://raw.githubusercontent.com/tgve/example-data/main/schools/data.csv&geographyURL=https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson&geographyColumn=la_code
+```
 
 
