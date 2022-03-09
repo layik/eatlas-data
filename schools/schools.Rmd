@@ -1,0 +1,67 @@
+---
+title: "School rankings with TGVE"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Let us show how the TGVE can be used to see rankings of schools in the UK with fewest steps possible. For the purpose of this Rmarkdown doc, I will create a directory at:
+
+```{r}
+library(readr)
+library(dplyr)
+d = "~/code/tgve/eatlas-data/schools/data"
+if(!dir.exists(d)) {
+  dir.create(d)
+}
+```
+
+
+## Get school data
+The school data is availabe from https://get-information-schools.service.gov.uk/Downloads. For the purpose of this analysis download "All establishment data" by checking "Establishment fields CSV, 60.56 MB" checkbox. If you download that you will get a file with name `dubasealldata20220306.csv`.
+
+You if you then read the contents of that CSV with `readr` you would be looking at something like this:
+
+```{r}
+csv = readr::read_csv("~/Downloads/edubasealldata20220306.csv")
+head(names(csv))
+names(csv)[grep("ofsted", names(csv), ignore.case = TRUE)]
+# lots of code columns
+head(names(csv)[grep("code", names(csv), ignore.case = TRUE)])
+# this is what we will be using
+names(csv)[grep("district", names(csv), ignore.case = TRUE)]
+
+```
+So let us get only the ranking and the geography as:
+
+```{r}
+data = csv %>% select(`OfstedRating (name)`, `DistrictAdministrative (code)`, `DistrictAdministrative (name)`)
+names(data) = c("ranking", "la_code", "name")
+# we can remove the na's in the csv like
+# data = data %>% filter(!is.na(ranking))
+data %>% group_by(ranking, la_code, name) %>% summarise(ranking_count = n()) %>% 
+  readr::write_csv(file.path(d, "data.csv"))
+```
+
+## Get geography
+The reason I named second column `la_code` is that I know we have that Local Authority District geographies over at SaferActive project here. We can of course download the file and save it in the same directory:
+
+```{r}
+download.file("https://raw.githubusercontent.com/saferactive/tgve/main/las-only-code.geojson", 
+              file.path(d, "lad.geojson"))
+```
+
+Now, feel free to explore this using `sf` or any other way you do your geoprocessing but there will be a column named `la_code` as `tgver` will need a matching column name to put the two files together.
+
+## `tgver::explore_dir`
+
+Step three:
+```{r, eval=FALSE}
+tgver::explore_dir(d)
+```
+
+We can do even better, all we have to do is get the data somewhere, so I added it to the `tgve/example-data` repository, therefore we can do:
+
+

@@ -1,0 +1,1756 @@
+ranking,la_code,name,ranking_count
+Good,E06000001,Hartlepool,32
+Good,E06000002,Middlesbrough,54
+Good,E06000003,Redcar and Cleveland,44
+Good,E06000004,Stockton-on-Tees,67
+Good,E06000005,Darlington,33
+Good,E06000006,Halton,43
+Good,E06000007,Warrington,67
+Good,E06000008,Blackburn with Darwen,62
+Good,E06000009,Blackpool,35
+Good,E06000010,"Kingston upon Hull, City of",75
+Good,E06000011,East Riding of Yorkshire,119
+Good,E06000012,North East Lincolnshire,53
+Good,E06000013,North Lincolnshire,67
+Good,E06000014,York,50
+Good,E06000015,Derby,67
+Good,E06000016,Leicester,87
+Good,E06000017,Rutland,16
+Good,E06000018,Nottingham,89
+Good,E06000019,"Herefordshire, County of",79
+Good,E06000020,Telford and Wrekin,48
+Good,E06000021,Stoke-on-Trent,76
+Good,E06000022,Bath and North East Somerset,66
+Good,E06000023,"Bristol, City of",95
+Good,E06000024,North Somerset,62
+Good,E06000025,South Gloucestershire,89
+Good,E06000026,Plymouth,84
+Good,E06000027,Torbay,35
+Good,E06000030,Swindon,57
+Good,E06000031,Peterborough,60
+Good,E06000032,Luton,52
+Good,E06000033,Southend-on-Sea,43
+Good,E06000034,Thurrock,42
+Good,E06000035,Medway,92
+Good,E06000036,Bracknell Forest,29
+Good,E06000037,West Berkshire,68
+Good,E06000038,Reading,40
+Good,E06000039,Slough,37
+Good,E06000040,Windsor and Maidenhead,46
+Good,E06000041,Wokingham,46
+Good,E06000042,Milton Keynes,78
+Good,E06000043,Brighton and Hove,60
+Good,E06000044,Portsmouth,64
+Good,E06000045,Southampton,54
+Good,E06000046,Isle of Wight,41
+Good,E06000047,County Durham,195
+Good,E06000049,Cheshire East,122
+Good,E06000050,Cheshire West and Chester,112
+Good,E06000051,Shropshire,142
+Good,E06000052,Cornwall,250
+Good,E06000054,Wiltshire,184
+Good,E06000055,Bedford,56
+Good,E06000056,Central Bedfordshire,88
+Good,E06000057,Northumberland,120
+Good,E06000058,"Bournemouth, Christchurch and Poole",83
+Good,E06000059,Dorset,112
+Good,E06000060,Buckinghamshire,154
+Good,E06000061,North Northamptonshire,79
+Good,E06000062,West Northamptonshire,127
+Good,E07000004,Aylesbury Vale,7
+Good,E07000005,Chiltern,5
+Good,E07000006,South Bucks,1
+Good,E07000007,Wycombe,3
+Good,E07000008,Cambridge,28
+Good,E07000009,East Cambridgeshire,26
+Good,E07000010,Fenland,32
+Good,E07000011,Huntingdonshire,56
+Good,E07000012,South Cambridgeshire,65
+Good,E07000026,Allerdale,53
+Good,E07000027,Barrow-in-Furness,33
+Good,E07000028,Carlisle,44
+Good,E07000029,Copeland,35
+Good,E07000030,Eden,39
+Good,E07000031,South Lakeland,62
+Good,E07000032,Amber Valley,57
+Good,E07000033,Bolsover,27
+Good,E07000034,Chesterfield,36
+Good,E07000035,Derbyshire Dales,55
+Good,E07000036,Erewash,30
+Good,E07000037,High Peak,40
+Good,E07000038,North East Derbyshire,37
+Good,E07000039,South Derbyshire,32
+Good,E07000040,East Devon,48
+Good,E07000041,Exeter,30
+Good,E07000042,Mid Devon,32
+Good,E07000043,North Devon,47
+Good,E07000044,South Hams,42
+Good,E07000045,Teignbridge,48
+Good,E07000046,Torridge,26
+Good,E07000047,West Devon,25
+Good,E07000061,Eastbourne,24
+Good,E07000062,Hastings,23
+Good,E07000063,Lewes,27
+Good,E07000064,Rother,33
+Good,E07000065,Wealden,58
+Good,E07000066,Basildon,52
+Good,E07000067,Braintree,49
+Good,E07000068,Brentwood,22
+Good,E07000069,Castle Point,21
+Good,E07000070,Chelmsford,56
+Good,E07000071,Colchester,63
+Good,E07000072,Epping Forest,42
+Good,E07000073,Harlow,33
+Good,E07000074,Maldon,16
+Good,E07000075,Rochford,20
+Good,E07000076,Tendring,34
+Good,E07000077,Uttlesford,30
+Good,E07000078,Cheltenham,26
+Good,E07000079,Cotswold,37
+Good,E07000080,Forest of Dean,38
+Good,E07000081,Gloucester,25
+Good,E07000082,Stroud,64
+Good,E07000083,Tewkesbury,25
+Good,E07000084,Basingstoke and Deane,60
+Good,E07000085,East Hampshire,39
+Good,E07000086,Eastleigh,34
+Good,E07000087,Fareham,27
+Good,E07000088,Gosport,25
+Good,E07000089,Hart,21
+Good,E07000090,Havant,40
+Good,E07000091,New Forest,60
+Good,E07000092,Rushmoor,17
+Good,E07000093,Test Valley,43
+Good,E07000094,Winchester,36
+Good,E07000095,Broxbourne,27
+Good,E07000096,Dacorum,53
+Good,E07000098,Hertsmere,35
+Good,E07000099,North Hertfordshire,45
+Good,E07000102,Three Rivers,25
+Good,E07000103,Watford,24
+Good,E07000105,Ashford,54
+Good,E07000106,Canterbury,34
+Good,E07000107,Dartford,36
+Good,E07000108,Dover,41
+Good,E07000109,Gravesham,31
+Good,E07000110,Maidstone,46
+Good,E07000111,Sevenoaks,40
+Good,E07000112,Folkestone and Hythe,29
+Good,E07000113,Swale,46
+Good,E07000114,Thanet,41
+Good,E07000115,Tonbridge and Malling,39
+Good,E07000116,Tunbridge Wells,35
+Good,E07000117,Burnley,38
+Good,E07000118,Chorley,52
+Good,E07000119,Fylde,21
+Good,E07000120,Hyndburn,33
+Good,E07000121,Lancaster,52
+Good,E07000122,Pendle,42
+Good,E07000123,Preston,51
+Good,E07000124,Ribble Valley,28
+Good,E07000125,Rossendale,29
+Good,E07000126,South Ribble,40
+Good,E07000127,West Lancashire,52
+Good,E07000128,Wyre,38
+Good,E07000129,Blaby,23
+Good,E07000130,Charnwood,57
+Good,E07000131,Harborough,44
+Good,E07000132,Hinckley and Bosworth,43
+Good,E07000133,Melton,23
+Good,E07000134,North West Leicestershire,46
+Good,E07000135,Oadby and Wigston,12
+Good,E07000136,Boston,20
+Good,E07000137,East Lindsey,59
+Good,E07000138,Lincoln,30
+Good,E07000139,North Kesteven,43
+Good,E07000140,South Holland,29
+Good,E07000141,South Kesteven,50
+Good,E07000142,West Lindsey,39
+Good,E07000143,Breckland,60
+Good,E07000144,Broadland,54
+Good,E07000145,Great Yarmouth,34
+Good,E07000146,King's Lynn and West Norfolk,75
+Good,E07000147,North Norfolk,50
+Good,E07000148,Norwich,28
+Good,E07000149,South Norfolk,56
+Good,E07000150,Corby,2
+Good,E07000151,Daventry,6
+Good,E07000152,East Northamptonshire,5
+Good,E07000154,Northampton,7
+Good,E07000155,South Northamptonshire,6
+Good,E07000156,Wellingborough,6
+Good,E07000163,Craven,29
+Good,E07000164,Hambleton,46
+Good,E07000165,Harrogate,63
+Good,E07000166,Richmondshire,25
+Good,E07000167,Ryedale,28
+Good,E07000168,Scarborough,39
+Good,E07000169,Selby,39
+Good,E07000170,Ashfield,36
+Good,E07000171,Bassetlaw,51
+Good,E07000172,Broxtowe,38
+Good,E07000173,Gedling,39
+Good,E07000174,Mansfield,35
+Good,E07000175,Newark and Sherwood,45
+Good,E07000176,Rushcliffe,34
+Good,E07000177,Cherwell,56
+Good,E07000178,Oxford,36
+Good,E07000179,South Oxfordshire,63
+Good,E07000180,Vale of White Horse,48
+Good,E07000181,West Oxfordshire,47
+Good,E07000187,Mendip,48
+Good,E07000188,Sedgemoor,39
+Good,E07000189,South Somerset,61
+Good,E07000192,Cannock Chase,31
+Good,E07000193,East Staffordshire,50
+Good,E07000194,Lichfield,46
+Good,E07000195,Newcastle-under-Lyme,51
+Good,E07000196,South Staffordshire,45
+Good,E07000197,Stafford,60
+Good,E07000198,Staffordshire Moorlands,55
+Good,E07000199,Tamworth,23
+Good,E07000200,Babergh,40
+Good,E07000202,Ipswich,37
+Good,E07000203,Mid Suffolk,45
+Good,E07000207,Elmbridge,29
+Good,E07000208,Epsom and Ewell,13
+Good,E07000209,Guildford,31
+Good,E07000210,Mole Valley,22
+Good,E07000211,Reigate and Banstead,37
+Good,E07000212,Runnymede,25
+Good,E07000213,Spelthorne,23
+Good,E07000214,Surrey Heath,25
+Good,E07000215,Tandridge,31
+Good,E07000216,Waverley,41
+Good,E07000217,Woking,24
+Good,E07000218,North Warwickshire,27
+Good,E07000219,Nuneaton and Bedworth,36
+Good,E07000220,Rugby,29
+Good,E07000221,Stratford-on-Avon,53
+Good,E07000222,Warwick,42
+Good,E07000223,Adur,10
+Good,E07000224,Arun,35
+Good,E07000225,Chichester,50
+Good,E07000226,Crawley,27
+Good,E07000227,Horsham,42
+Good,E07000228,Mid Sussex,43
+Good,E07000229,Worthing,24
+Good,E07000234,Bromsgrove,23
+Good,E07000235,Malvern Hills,34
+Good,E07000236,Redditch,26
+Good,E07000237,Worcester,28
+Good,E07000238,Wychavon,53
+Good,E07000239,Wyre Forest,27
+Good,E07000240,St Albans,43
+Good,E07000241,Welwyn Hatfield,29
+Good,E07000242,East Hertfordshire,54
+Good,E07000243,Stevenage,32
+Good,E07000244,East Suffolk,92
+Good,E07000245,West Suffolk,55
+Good,E07000246,Somerset West and Taunton,58
+Good,E08000001,Bolton,101
+Good,E08000002,Bury,64
+Good,E08000003,Manchester,136
+Good,E08000004,Oldham,76
+Good,E08000005,Rochdale,69
+Good,E08000006,Salford,78
+Good,E08000007,Stockport,81
+Good,E08000008,Tameside,85
+Good,E08000009,Trafford,56
+Good,E08000010,Wigan,97
+Good,E08000011,Knowsley,48
+Good,E08000012,Liverpool,111
+Good,E08000013,St. Helens,45
+Good,E08000014,Sefton,78
+Good,E08000015,Wirral,79
+Good,E08000016,Barnsley,61
+Good,E08000017,Doncaster,89
+Good,E08000018,Rotherham,95
+Good,E08000019,Sheffield,139
+Good,E08000021,Newcastle upon Tyne,79
+Good,E08000022,North Tyneside,61
+Good,E08000023,South Tyneside,40
+Good,E08000024,Sunderland,103
+Good,E08000025,Birmingham,316
+Good,E08000026,Coventry,99
+Good,E08000027,Dudley,88
+Good,E08000028,Sandwell,78
+Good,E08000029,Solihull,48
+Good,E08000030,Walsall,78
+Good,E08000031,Wolverhampton,86
+Good,E08000032,Bradford,162
+Good,E08000033,Calderdale,73
+Good,E08000034,Kirklees,139
+Good,E08000035,Leeds,205
+Good,E08000036,Wakefield,111
+Good,E08000037,Gateshead,51
+Good,E09000002,Barking and Dagenham,58
+Good,E09000003,Barnet,86
+Good,E09000004,Bexley,66
+Good,E09000005,Brent,67
+Good,E09000006,Bromley,86
+Good,E09000007,Camden,50
+Good,E09000008,Croydon,89
+Good,E09000009,Ealing,73
+Good,E09000010,Enfield,75
+Good,E09000011,Greenwich,77
+Good,E09000012,Hackney,58
+Good,E09000013,Hammersmith and Fulham,40
+Good,E09000014,Haringey,68
+Good,E09000015,Harrow,33
+Good,E09000016,Havering,73
+Good,E09000017,Hillingdon,72
+Good,E09000018,Hounslow,57
+Good,E09000019,Islington,44
+Good,E09000020,Kensington and Chelsea,21
+Good,E09000021,Kingston upon Thames,36
+Good,E09000022,Lambeth,49
+Good,E09000023,Lewisham,59
+Good,E09000024,Merton,45
+Good,E09000025,Newham,69
+Good,E09000026,Redbridge,52
+Good,E09000027,Richmond upon Thames,33
+Good,E09000028,Southwark,74
+Good,E09000029,Sutton,44
+Good,E09000030,Tower Hamlets,71
+Good,E09000031,Waltham Forest,64
+Good,E09000032,Wandsworth,56
+Good,E09000033,Westminster,40
+Inadequate,E06000008,Blackburn with Darwen,1
+Inadequate,E06000011,East Riding of Yorkshire,1
+Inadequate,E06000014,York,1
+Inadequate,E06000016,Leicester,3
+Inadequate,E06000018,Nottingham,1
+Inadequate,E06000021,Stoke-on-Trent,2
+Inadequate,E06000023,"Bristol, City of",3
+Inadequate,E06000025,South Gloucestershire,1
+Inadequate,E06000030,Swindon,1
+Inadequate,E06000032,Luton,2
+Inadequate,E06000035,Medway,1
+Inadequate,E06000037,West Berkshire,1
+Inadequate,E06000042,Milton Keynes,1
+Inadequate,E06000043,Brighton and Hove,1
+Inadequate,E06000045,Southampton,1
+Inadequate,E06000054,Wiltshire,1
+Inadequate,E06000057,Northumberland,1
+Inadequate,E06000059,Dorset,1
+Inadequate,E07000009,East Cambridgeshire,1
+Inadequate,E07000032,Amber Valley,1
+Inadequate,E07000033,Bolsover,1
+Inadequate,E07000044,South Hams,1
+Inadequate,E07000065,Wealden,1
+Inadequate,E07000071,Colchester,1
+Inadequate,E07000082,Stroud,1
+Inadequate,E07000083,Tewkesbury,1
+Inadequate,E07000093,Test Valley,1
+Inadequate,E07000098,Hertsmere,1
+Inadequate,E07000103,Watford,1
+Inadequate,E07000106,Canterbury,1
+Inadequate,E07000114,Thanet,1
+Inadequate,E07000127,West Lancashire,1
+Inadequate,E07000129,Blaby,1
+Inadequate,E07000134,North West Leicestershire,1
+Inadequate,E07000139,North Kesteven,1
+Inadequate,E07000143,Breckland,1
+Inadequate,E07000147,North Norfolk,1
+Inadequate,E07000149,South Norfolk,1
+Inadequate,E07000175,Newark and Sherwood,1
+Inadequate,E07000179,South Oxfordshire,1
+Inadequate,E07000187,Mendip,1
+Inadequate,E07000189,South Somerset,1
+Inadequate,E07000218,North Warwickshire,1
+Inadequate,E07000246,Somerset West and Taunton,1
+Inadequate,E08000001,Bolton,1
+Inadequate,E08000006,Salford,1
+Inadequate,E08000007,Stockport,1
+Inadequate,E08000017,Doncaster,1
+Inadequate,E08000019,Sheffield,2
+Inadequate,E08000025,Birmingham,9
+Inadequate,E08000028,Sandwell,2
+Inadequate,E08000031,Wolverhampton,1
+Inadequate,E08000034,Kirklees,2
+Inadequate,E08000035,Leeds,1
+Inadequate,E08000037,Gateshead,2
+Inadequate,E09000003,Barnet,7
+Inadequate,E09000005,Brent,1
+Inadequate,E09000009,Ealing,1
+Inadequate,E09000010,Enfield,1
+Inadequate,E09000012,Hackney,12
+Inadequate,E09000014,Haringey,1
+Inadequate,E09000020,Kensington and Chelsea,1
+Inadequate,E09000022,Lambeth,1
+Inadequate,E09000025,Newham,3
+Inadequate,E09000028,Southwark,1
+Inadequate,E09000031,Waltham Forest,1
+Insufficient evidence,E06000045,Southampton,1
+Outstanding,E06000001,Hartlepool,8
+Outstanding,E06000002,Middlesbrough,9
+Outstanding,E06000003,Redcar and Cleveland,14
+Outstanding,E06000004,Stockton-on-Tees,17
+Outstanding,E06000005,Darlington,11
+Outstanding,E06000006,Halton,14
+Outstanding,E06000007,Warrington,23
+Outstanding,E06000008,Blackburn with Darwen,13
+Outstanding,E06000009,Blackpool,6
+Outstanding,E06000010,"Kingston upon Hull, City of",21
+Outstanding,E06000011,East Riding of Yorkshire,21
+Outstanding,E06000012,North East Lincolnshire,11
+Outstanding,E06000013,North Lincolnshire,11
+Outstanding,E06000014,York,17
+Outstanding,E06000015,Derby,18
+Outstanding,E06000016,Leicester,19
+Outstanding,E06000017,Rutland,9
+Outstanding,E06000018,Nottingham,18
+Outstanding,E06000019,"Herefordshire, County of",24
+Outstanding,E06000020,Telford and Wrekin,16
+Outstanding,E06000021,Stoke-on-Trent,17
+Outstanding,E06000022,Bath and North East Somerset,16
+Outstanding,E06000023,"Bristol, City of",33
+Outstanding,E06000024,North Somerset,15
+Outstanding,E06000025,South Gloucestershire,11
+Outstanding,E06000026,Plymouth,13
+Outstanding,E06000027,Torbay,6
+Outstanding,E06000030,Swindon,8
+Outstanding,E06000031,Peterborough,6
+Outstanding,E06000032,Luton,11
+Outstanding,E06000033,Southend-on-Sea,12
+Outstanding,E06000034,Thurrock,9
+Outstanding,E06000035,Medway,16
+Outstanding,E06000036,Bracknell Forest,7
+Outstanding,E06000037,West Berkshire,13
+Outstanding,E06000038,Reading,16
+Outstanding,E06000039,Slough,19
+Outstanding,E06000040,Windsor and Maidenhead,24
+Outstanding,E06000041,Wokingham,16
+Outstanding,E06000042,Milton Keynes,29
+Outstanding,E06000043,Brighton and Hove,12
+Outstanding,E06000044,Portsmouth,8
+Outstanding,E06000045,Southampton,17
+Outstanding,E06000047,County Durham,54
+Outstanding,E06000049,Cheshire East,38
+Outstanding,E06000050,Cheshire West and Chester,36
+Outstanding,E06000051,Shropshire,18
+Outstanding,E06000052,Cornwall,40
+Outstanding,E06000054,Wiltshire,28
+Outstanding,E06000055,Bedford,14
+Outstanding,E06000056,Central Bedfordshire,27
+Outstanding,E06000057,Northumberland,26
+Outstanding,E06000058,"Bournemouth, Christchurch and Poole",25
+Outstanding,E06000059,Dorset,30
+Outstanding,E06000060,Buckinghamshire,45
+Outstanding,E06000061,North Northamptonshire,16
+Outstanding,E06000062,West Northamptonshire,19
+Outstanding,E07000004,Aylesbury Vale,3
+Outstanding,E07000005,Chiltern,4
+Outstanding,E07000006,South Bucks,1
+Outstanding,E07000007,Wycombe,5
+Outstanding,E07000008,Cambridge,13
+Outstanding,E07000009,East Cambridgeshire,3
+Outstanding,E07000010,Fenland,2
+Outstanding,E07000011,Huntingdonshire,10
+Outstanding,E07000012,South Cambridgeshire,8
+Outstanding,E07000026,Allerdale,12
+Outstanding,E07000027,Barrow-in-Furness,3
+Outstanding,E07000028,Carlisle,7
+Outstanding,E07000029,Copeland,6
+Outstanding,E07000030,Eden,4
+Outstanding,E07000031,South Lakeland,8
+Outstanding,E07000032,Amber Valley,10
+Outstanding,E07000033,Bolsover,4
+Outstanding,E07000034,Chesterfield,4
+Outstanding,E07000035,Derbyshire Dales,7
+Outstanding,E07000036,Erewash,7
+Outstanding,E07000037,High Peak,5
+Outstanding,E07000038,North East Derbyshire,4
+Outstanding,E07000039,South Derbyshire,8
+Outstanding,E07000040,East Devon,11
+Outstanding,E07000041,Exeter,10
+Outstanding,E07000042,Mid Devon,2
+Outstanding,E07000043,North Devon,7
+Outstanding,E07000044,South Hams,10
+Outstanding,E07000045,Teignbridge,5
+Outstanding,E07000046,Torridge,3
+Outstanding,E07000047,West Devon,6
+Outstanding,E07000061,Eastbourne,5
+Outstanding,E07000062,Hastings,4
+Outstanding,E07000063,Lewes,7
+Outstanding,E07000064,Rother,8
+Outstanding,E07000065,Wealden,4
+Outstanding,E07000066,Basildon,14
+Outstanding,E07000067,Braintree,8
+Outstanding,E07000068,Brentwood,9
+Outstanding,E07000069,Castle Point,6
+Outstanding,E07000070,Chelmsford,16
+Outstanding,E07000071,Colchester,13
+Outstanding,E07000072,Epping Forest,4
+Outstanding,E07000073,Harlow,2
+Outstanding,E07000074,Maldon,4
+Outstanding,E07000075,Rochford,6
+Outstanding,E07000076,Tendring,5
+Outstanding,E07000077,Uttlesford,8
+Outstanding,E07000078,Cheltenham,13
+Outstanding,E07000079,Cotswold,11
+Outstanding,E07000080,Forest of Dean,6
+Outstanding,E07000081,Gloucester,10
+Outstanding,E07000082,Stroud,8
+Outstanding,E07000083,Tewkesbury,9
+Outstanding,E07000084,Basingstoke and Deane,15
+Outstanding,E07000085,East Hampshire,12
+Outstanding,E07000086,Eastleigh,7
+Outstanding,E07000087,Fareham,14
+Outstanding,E07000088,Gosport,3
+Outstanding,E07000089,Hart,12
+Outstanding,E07000090,Havant,4
+Outstanding,E07000091,New Forest,13
+Outstanding,E07000092,Rushmoor,15
+Outstanding,E07000093,Test Valley,14
+Outstanding,E07000094,Winchester,14
+Outstanding,E07000095,Broxbourne,6
+Outstanding,E07000096,Dacorum,13
+Outstanding,E07000098,Hertsmere,8
+Outstanding,E07000099,North Hertfordshire,14
+Outstanding,E07000102,Three Rivers,10
+Outstanding,E07000103,Watford,15
+Outstanding,E07000105,Ashford,6
+Outstanding,E07000106,Canterbury,11
+Outstanding,E07000107,Dartford,7
+Outstanding,E07000108,Dover,12
+Outstanding,E07000109,Gravesham,7
+Outstanding,E07000110,Maidstone,14
+Outstanding,E07000111,Sevenoaks,9
+Outstanding,E07000112,Folkestone and Hythe,10
+Outstanding,E07000113,Swale,13
+Outstanding,E07000114,Thanet,9
+Outstanding,E07000115,Tonbridge and Malling,15
+Outstanding,E07000116,Tunbridge Wells,13
+Outstanding,E07000117,Burnley,11
+Outstanding,E07000118,Chorley,18
+Outstanding,E07000119,Fylde,11
+Outstanding,E07000120,Hyndburn,7
+Outstanding,E07000121,Lancaster,14
+Outstanding,E07000122,Pendle,7
+Outstanding,E07000123,Preston,19
+Outstanding,E07000124,Ribble Valley,10
+Outstanding,E07000125,Rossendale,15
+Outstanding,E07000126,South Ribble,10
+Outstanding,E07000127,West Lancashire,17
+Outstanding,E07000128,Wyre,11
+Outstanding,E07000129,Blaby,2
+Outstanding,E07000130,Charnwood,12
+Outstanding,E07000131,Harborough,7
+Outstanding,E07000132,Hinckley and Bosworth,11
+Outstanding,E07000133,Melton,6
+Outstanding,E07000134,North West Leicestershire,4
+Outstanding,E07000135,Oadby and Wigston,9
+Outstanding,E07000136,Boston,6
+Outstanding,E07000137,East Lindsey,7
+Outstanding,E07000138,Lincoln,8
+Outstanding,E07000139,North Kesteven,10
+Outstanding,E07000140,South Holland,8
+Outstanding,E07000141,South Kesteven,13
+Outstanding,E07000142,West Lindsey,9
+Outstanding,E07000143,Breckland,2
+Outstanding,E07000144,Broadland,8
+Outstanding,E07000145,Great Yarmouth,2
+Outstanding,E07000146,King's Lynn and West Norfolk,4
+Outstanding,E07000147,North Norfolk,5
+Outstanding,E07000148,Norwich,18
+Outstanding,E07000149,South Norfolk,17
+Outstanding,E07000151,Daventry,2
+Outstanding,E07000152,East Northamptonshire,1
+Outstanding,E07000153,Kettering,4
+Outstanding,E07000154,Northampton,2
+Outstanding,E07000155,South Northamptonshire,6
+Outstanding,E07000156,Wellingborough,1
+Outstanding,E07000163,Craven,10
+Outstanding,E07000164,Hambleton,4
+Outstanding,E07000165,Harrogate,24
+Outstanding,E07000166,Richmondshire,4
+Outstanding,E07000167,Ryedale,3
+Outstanding,E07000168,Scarborough,6
+Outstanding,E07000169,Selby,5
+Outstanding,E07000170,Ashfield,5
+Outstanding,E07000171,Bassetlaw,6
+Outstanding,E07000172,Broxtowe,3
+Outstanding,E07000173,Gedling,10
+Outstanding,E07000174,Mansfield,4
+Outstanding,E07000175,Newark and Sherwood,6
+Outstanding,E07000176,Rushcliffe,15
+Outstanding,E07000177,Cherwell,6
+Outstanding,E07000178,Oxford,6
+Outstanding,E07000179,South Oxfordshire,10
+Outstanding,E07000180,Vale of White Horse,10
+Outstanding,E07000181,West Oxfordshire,13
+Outstanding,E07000187,Mendip,9
+Outstanding,E07000188,Sedgemoor,7
+Outstanding,E07000189,South Somerset,15
+Outstanding,E07000193,East Staffordshire,9
+Outstanding,E07000194,Lichfield,10
+Outstanding,E07000195,Newcastle-under-Lyme,8
+Outstanding,E07000196,South Staffordshire,6
+Outstanding,E07000197,Stafford,11
+Outstanding,E07000198,Staffordshire Moorlands,13
+Outstanding,E07000199,Tamworth,3
+Outstanding,E07000200,Babergh,7
+Outstanding,E07000202,Ipswich,7
+Outstanding,E07000203,Mid Suffolk,10
+Outstanding,E07000207,Elmbridge,13
+Outstanding,E07000208,Epsom and Ewell,14
+Outstanding,E07000209,Guildford,19
+Outstanding,E07000210,Mole Valley,10
+Outstanding,E07000211,Reigate and Banstead,12
+Outstanding,E07000212,Runnymede,7
+Outstanding,E07000213,Spelthorne,4
+Outstanding,E07000214,Surrey Heath,10
+Outstanding,E07000215,Tandridge,7
+Outstanding,E07000216,Waverley,18
+Outstanding,E07000217,Woking,10
+Outstanding,E07000218,North Warwickshire,4
+Outstanding,E07000219,Nuneaton and Bedworth,8
+Outstanding,E07000220,Rugby,9
+Outstanding,E07000221,Stratford-on-Avon,13
+Outstanding,E07000222,Warwick,10
+Outstanding,E07000223,Adur,4
+Outstanding,E07000224,Arun,4
+Outstanding,E07000225,Chichester,5
+Outstanding,E07000226,Crawley,4
+Outstanding,E07000227,Horsham,10
+Outstanding,E07000228,Mid Sussex,8
+Outstanding,E07000229,Worthing,1
+Outstanding,E07000234,Bromsgrove,12
+Outstanding,E07000235,Malvern Hills,8
+Outstanding,E07000236,Redditch,3
+Outstanding,E07000237,Worcester,3
+Outstanding,E07000238,Wychavon,15
+Outstanding,E07000239,Wyre Forest,1
+Outstanding,E07000240,St Albans,26
+Outstanding,E07000241,Welwyn Hatfield,11
+Outstanding,E07000242,East Hertfordshire,23
+Outstanding,E07000243,Stevenage,3
+Outstanding,E07000244,East Suffolk,11
+Outstanding,E07000245,West Suffolk,11
+Outstanding,E07000246,Somerset West and Taunton,7
+Outstanding,E08000001,Bolton,34
+Outstanding,E08000002,Bury,12
+Outstanding,E08000003,Manchester,46
+Outstanding,E08000004,Oldham,20
+Outstanding,E08000005,Rochdale,14
+Outstanding,E08000006,Salford,18
+Outstanding,E08000007,Stockport,29
+Outstanding,E08000008,Tameside,11
+Outstanding,E08000009,Trafford,36
+Outstanding,E08000010,Wigan,36
+Outstanding,E08000011,Knowsley,7
+Outstanding,E08000012,Liverpool,44
+Outstanding,E08000013,St. Helens,19
+Outstanding,E08000014,Sefton,16
+Outstanding,E08000015,Wirral,30
+Outstanding,E08000016,Barnsley,20
+Outstanding,E08000017,Doncaster,17
+Outstanding,E08000018,Rotherham,21
+Outstanding,E08000019,Sheffield,30
+Outstanding,E08000021,Newcastle upon Tyne,26
+Outstanding,E08000022,North Tyneside,17
+Outstanding,E08000023,South Tyneside,21
+Outstanding,E08000024,Sunderland,18
+Outstanding,E08000025,Birmingham,108
+Outstanding,E08000026,Coventry,13
+Outstanding,E08000027,Dudley,11
+Outstanding,E08000028,Sandwell,24
+Outstanding,E08000029,Solihull,24
+Outstanding,E08000030,Walsall,26
+Outstanding,E08000031,Wolverhampton,19
+Outstanding,E08000032,Bradford,40
+Outstanding,E08000033,Calderdale,20
+Outstanding,E08000034,Kirklees,30
+Outstanding,E08000035,Leeds,46
+Outstanding,E08000036,Wakefield,26
+Outstanding,E08000037,Gateshead,27
+Outstanding,E09000001,City of London,2
+Outstanding,E09000002,Barking and Dagenham,7
+Outstanding,E09000003,Barnet,50
+Outstanding,E09000004,Bexley,15
+Outstanding,E09000005,Brent,25
+Outstanding,E09000006,Bromley,34
+Outstanding,E09000007,Camden,23
+Outstanding,E09000008,Croydon,30
+Outstanding,E09000009,Ealing,28
+Outstanding,E09000010,Enfield,22
+Outstanding,E09000011,Greenwich,23
+Outstanding,E09000012,Hackney,30
+Outstanding,E09000013,Hammersmith and Fulham,28
+Outstanding,E09000014,Haringey,25
+Outstanding,E09000015,Harrow,29
+Outstanding,E09000016,Havering,14
+Outstanding,E09000017,Hillingdon,22
+Outstanding,E09000018,Hounslow,24
+Outstanding,E09000019,Islington,22
+Outstanding,E09000020,Kensington and Chelsea,30
+Outstanding,E09000021,Kingston upon Thames,20
+Outstanding,E09000022,Lambeth,38
+Outstanding,E09000023,Lewisham,22
+Outstanding,E09000024,Merton,17
+Outstanding,E09000025,Newham,41
+Outstanding,E09000026,Redbridge,30
+Outstanding,E09000027,Richmond upon Thames,32
+Outstanding,E09000028,Southwark,35
+Outstanding,E09000029,Sutton,24
+Outstanding,E09000030,Tower Hamlets,37
+Outstanding,E09000031,Waltham Forest,19
+Outstanding,E09000032,Wandsworth,36
+Outstanding,E09000033,Westminster,23
+Requires improvement,9999,NA,1
+Requires improvement,E06000001,Hartlepool,3
+Requires improvement,E06000002,Middlesbrough,9
+Requires improvement,E06000003,Redcar and Cleveland,7
+Requires improvement,E06000004,Stockton-on-Tees,3
+Requires improvement,E06000005,Darlington,9
+Requires improvement,E06000006,Halton,8
+Requires improvement,E06000007,Warrington,4
+Requires improvement,E06000008,Blackburn with Darwen,10
+Requires improvement,E06000009,Blackpool,5
+Requires improvement,E06000010,"Kingston upon Hull, City of",19
+Requires improvement,E06000011,East Riding of Yorkshire,16
+Requires improvement,E06000012,North East Lincolnshire,9
+Requires improvement,E06000013,North Lincolnshire,6
+Requires improvement,E06000014,York,5
+Requires improvement,E06000015,Derby,16
+Requires improvement,E06000016,Leicester,17
+Requires improvement,E06000017,Rutland,1
+Requires improvement,E06000018,Nottingham,12
+Requires improvement,E06000019,"Herefordshire, County of",6
+Requires improvement,E06000020,Telford and Wrekin,15
+Requires improvement,E06000021,Stoke-on-Trent,24
+Requires improvement,E06000022,Bath and North East Somerset,9
+Requires improvement,E06000023,"Bristol, City of",24
+Requires improvement,E06000024,North Somerset,11
+Requires improvement,E06000025,South Gloucestershire,14
+Requires improvement,E06000026,Plymouth,21
+Requires improvement,E06000027,Torbay,6
+Requires improvement,E06000030,Swindon,20
+Requires improvement,E06000031,Peterborough,13
+Requires improvement,E06000032,Luton,16
+Requires improvement,E06000033,Southend-on-Sea,10
+Requires improvement,E06000034,Thurrock,6
+Requires improvement,E06000035,Medway,9
+Requires improvement,E06000036,Bracknell Forest,6
+Requires improvement,E06000037,West Berkshire,7
+Requires improvement,E06000038,Reading,7
+Requires improvement,E06000039,Slough,3
+Requires improvement,E06000040,Windsor and Maidenhead,5
+Requires improvement,E06000041,Wokingham,5
+Requires improvement,E06000042,Milton Keynes,6
+Requires improvement,E06000043,Brighton and Hove,7
+Requires improvement,E06000044,Portsmouth,7
+Requires improvement,E06000045,Southampton,12
+Requires improvement,E06000046,Isle of Wight,12
+Requires improvement,E06000047,County Durham,30
+Requires improvement,E06000049,Cheshire East,18
+Requires improvement,E06000050,Cheshire West and Chester,17
+Requires improvement,E06000051,Shropshire,15
+Requires improvement,E06000052,Cornwall,42
+Requires improvement,E06000054,Wiltshire,43
+Requires improvement,E06000055,Bedford,16
+Requires improvement,E06000056,Central Bedfordshire,13
+Requires improvement,E06000057,Northumberland,19
+Requires improvement,E06000058,"Bournemouth, Christchurch and Poole",11
+Requires improvement,E06000059,Dorset,28
+Requires improvement,E06000060,Buckinghamshire,14
+Requires improvement,E06000061,North Northamptonshire,19
+Requires improvement,E06000062,West Northamptonshire,15
+Requires improvement,E07000007,Wycombe,2
+Requires improvement,E07000008,Cambridge,4
+Requires improvement,E07000009,East Cambridgeshire,6
+Requires improvement,E07000010,Fenland,12
+Requires improvement,E07000011,Huntingdonshire,10
+Requires improvement,E07000012,South Cambridgeshire,8
+Requires improvement,E07000026,Allerdale,6
+Requires improvement,E07000027,Barrow-in-Furness,6
+Requires improvement,E07000028,Carlisle,8
+Requires improvement,E07000029,Copeland,3
+Requires improvement,E07000030,Eden,2
+Requires improvement,E07000031,South Lakeland,3
+Requires improvement,E07000032,Amber Valley,6
+Requires improvement,E07000033,Bolsover,8
+Requires improvement,E07000034,Chesterfield,12
+Requires improvement,E07000035,Derbyshire Dales,6
+Requires improvement,E07000036,Erewash,9
+Requires improvement,E07000037,High Peak,5
+Requires improvement,E07000038,North East Derbyshire,9
+Requires improvement,E07000039,South Derbyshire,10
+Requires improvement,E07000040,East Devon,14
+Requires improvement,E07000041,Exeter,9
+Requires improvement,E07000042,Mid Devon,6
+Requires improvement,E07000043,North Devon,4
+Requires improvement,E07000044,South Hams,2
+Requires improvement,E07000045,Teignbridge,11
+Requires improvement,E07000046,Torridge,5
+Requires improvement,E07000047,West Devon,3
+Requires improvement,E07000061,Eastbourne,3
+Requires improvement,E07000062,Hastings,2
+Requires improvement,E07000063,Lewes,6
+Requires improvement,E07000064,Rother,1
+Requires improvement,E07000065,Wealden,5
+Requires improvement,E07000066,Basildon,4
+Requires improvement,E07000067,Braintree,5
+Requires improvement,E07000068,Brentwood,2
+Requires improvement,E07000069,Castle Point,6
+Requires improvement,E07000070,Chelmsford,9
+Requires improvement,E07000071,Colchester,5
+Requires improvement,E07000072,Epping Forest,3
+Requires improvement,E07000073,Harlow,2
+Requires improvement,E07000074,Maldon,1
+Requires improvement,E07000075,Rochford,4
+Requires improvement,E07000076,Tendring,12
+Requires improvement,E07000077,Uttlesford,4
+Requires improvement,E07000078,Cheltenham,1
+Requires improvement,E07000079,Cotswold,2
+Requires improvement,E07000080,Forest of Dean,6
+Requires improvement,E07000081,Gloucester,10
+Requires improvement,E07000082,Stroud,4
+Requires improvement,E07000083,Tewkesbury,5
+Requires improvement,E07000084,Basingstoke and Deane,3
+Requires improvement,E07000085,East Hampshire,3
+Requires improvement,E07000086,Eastleigh,1
+Requires improvement,E07000087,Fareham,1
+Requires improvement,E07000088,Gosport,5
+Requires improvement,E07000089,Hart,1
+Requires improvement,E07000090,Havant,5
+Requires improvement,E07000091,New Forest,2
+Requires improvement,E07000092,Rushmoor,6
+Requires improvement,E07000093,Test Valley,3
+Requires improvement,E07000094,Winchester,1
+Requires improvement,E07000095,Broxbourne,11
+Requires improvement,E07000096,Dacorum,4
+Requires improvement,E07000098,Hertsmere,4
+Requires improvement,E07000099,North Hertfordshire,8
+Requires improvement,E07000102,Three Rivers,2
+Requires improvement,E07000103,Watford,2
+Requires improvement,E07000105,Ashford,4
+Requires improvement,E07000106,Canterbury,3
+Requires improvement,E07000107,Dartford,3
+Requires improvement,E07000108,Dover,9
+Requires improvement,E07000109,Gravesham,4
+Requires improvement,E07000110,Maidstone,6
+Requires improvement,E07000111,Sevenoaks,5
+Requires improvement,E07000112,Folkestone and Hythe,6
+Requires improvement,E07000113,Swale,9
+Requires improvement,E07000114,Thanet,4
+Requires improvement,E07000115,Tonbridge and Malling,7
+Requires improvement,E07000116,Tunbridge Wells,1
+Requires improvement,E07000117,Burnley,5
+Requires improvement,E07000118,Chorley,3
+Requires improvement,E07000119,Fylde,3
+Requires improvement,E07000120,Hyndburn,5
+Requires improvement,E07000121,Lancaster,3
+Requires improvement,E07000122,Pendle,5
+Requires improvement,E07000123,Preston,6
+Requires improvement,E07000124,Ribble Valley,3
+Requires improvement,E07000125,Rossendale,3
+Requires improvement,E07000126,South Ribble,4
+Requires improvement,E07000127,West Lancashire,3
+Requires improvement,E07000128,Wyre,6
+Requires improvement,E07000129,Blaby,6
+Requires improvement,E07000130,Charnwood,6
+Requires improvement,E07000131,Harborough,4
+Requires improvement,E07000132,Hinckley and Bosworth,4
+Requires improvement,E07000133,Melton,4
+Requires improvement,E07000134,North West Leicestershire,4
+Requires improvement,E07000135,Oadby and Wigston,2
+Requires improvement,E07000136,Boston,4
+Requires improvement,E07000137,East Lindsey,13
+Requires improvement,E07000139,North Kesteven,5
+Requires improvement,E07000140,South Holland,7
+Requires improvement,E07000141,South Kesteven,6
+Requires improvement,E07000142,West Lindsey,7
+Requires improvement,E07000143,Breckland,13
+Requires improvement,E07000144,Broadland,7
+Requires improvement,E07000145,Great Yarmouth,6
+Requires improvement,E07000146,King's Lynn and West Norfolk,17
+Requires improvement,E07000147,North Norfolk,5
+Requires improvement,E07000148,Norwich,11
+Requires improvement,E07000149,South Norfolk,9
+Requires improvement,E07000150,Corby,1
+Requires improvement,E07000151,Daventry,2
+Requires improvement,E07000152,East Northamptonshire,2
+Requires improvement,E07000153,Kettering,3
+Requires improvement,E07000154,Northampton,6
+Requires improvement,E07000156,Wellingborough,5
+Requires improvement,E07000163,Craven,4
+Requires improvement,E07000164,Hambleton,9
+Requires improvement,E07000165,Harrogate,8
+Requires improvement,E07000166,Richmondshire,4
+Requires improvement,E07000167,Ryedale,4
+Requires improvement,E07000168,Scarborough,10
+Requires improvement,E07000169,Selby,5
+Requires improvement,E07000170,Ashfield,7
+Requires improvement,E07000171,Bassetlaw,4
+Requires improvement,E07000172,Broxtowe,1
+Requires improvement,E07000173,Gedling,10
+Requires improvement,E07000174,Mansfield,8
+Requires improvement,E07000175,Newark and Sherwood,6
+Requires improvement,E07000176,Rushcliffe,3
+Requires improvement,E07000177,Cherwell,5
+Requires improvement,E07000178,Oxford,4
+Requires improvement,E07000179,South Oxfordshire,5
+Requires improvement,E07000180,Vale of White Horse,3
+Requires improvement,E07000181,West Oxfordshire,6
+Requires improvement,E07000187,Mendip,8
+Requires improvement,E07000188,Sedgemoor,9
+Requires improvement,E07000189,South Somerset,7
+Requires improvement,E07000192,Cannock Chase,6
+Requires improvement,E07000193,East Staffordshire,5
+Requires improvement,E07000194,Lichfield,4
+Requires improvement,E07000195,Newcastle-under-Lyme,7
+Requires improvement,E07000196,South Staffordshire,4
+Requires improvement,E07000197,Stafford,9
+Requires improvement,E07000198,Staffordshire Moorlands,5
+Requires improvement,E07000199,Tamworth,5
+Requires improvement,E07000200,Babergh,4
+Requires improvement,E07000202,Ipswich,13
+Requires improvement,E07000203,Mid Suffolk,10
+Requires improvement,E07000207,Elmbridge,2
+Requires improvement,E07000208,Epsom and Ewell,4
+Requires improvement,E07000209,Guildford,4
+Requires improvement,E07000210,Mole Valley,2
+Requires improvement,E07000211,Reigate and Banstead,4
+Requires improvement,E07000213,Spelthorne,3
+Requires improvement,E07000214,Surrey Heath,3
+Requires improvement,E07000215,Tandridge,2
+Requires improvement,E07000216,Waverley,4
+Requires improvement,E07000217,Woking,2
+Requires improvement,E07000218,North Warwickshire,5
+Requires improvement,E07000219,Nuneaton and Bedworth,7
+Requires improvement,E07000220,Rugby,7
+Requires improvement,E07000221,Stratford-on-Avon,8
+Requires improvement,E07000222,Warwick,2
+Requires improvement,E07000223,Adur,3
+Requires improvement,E07000224,Arun,9
+Requires improvement,E07000225,Chichester,3
+Requires improvement,E07000226,Crawley,5
+Requires improvement,E07000227,Horsham,5
+Requires improvement,E07000228,Mid Sussex,9
+Requires improvement,E07000229,Worthing,8
+Requires improvement,E07000234,Bromsgrove,6
+Requires improvement,E07000235,Malvern Hills,4
+Requires improvement,E07000236,Redditch,4
+Requires improvement,E07000237,Worcester,1
+Requires improvement,E07000238,Wychavon,4
+Requires improvement,E07000239,Wyre Forest,7
+Requires improvement,E07000240,St Albans,4
+Requires improvement,E07000241,Welwyn Hatfield,6
+Requires improvement,E07000242,East Hertfordshire,4
+Requires improvement,E07000243,Stevenage,6
+Requires improvement,E07000244,East Suffolk,14
+Requires improvement,E07000245,West Suffolk,8
+Requires improvement,E07000246,Somerset West and Taunton,9
+Requires improvement,E08000001,Bolton,16
+Requires improvement,E08000002,Bury,10
+Requires improvement,E08000003,Manchester,12
+Requires improvement,E08000004,Oldham,18
+Requires improvement,E08000005,Rochdale,9
+Requires improvement,E08000006,Salford,28
+Requires improvement,E08000007,Stockport,11
+Requires improvement,E08000008,Tameside,12
+Requires improvement,E08000009,Trafford,5
+Requires improvement,E08000010,Wigan,10
+Requires improvement,E08000011,Knowsley,10
+Requires improvement,E08000012,Liverpool,24
+Requires improvement,E08000013,St. Helens,11
+Requires improvement,E08000014,Sefton,12
+Requires improvement,E08000015,Wirral,23
+Requires improvement,E08000016,Barnsley,21
+Requires improvement,E08000017,Doncaster,36
+Requires improvement,E08000018,Rotherham,24
+Requires improvement,E08000019,Sheffield,30
+Requires improvement,E08000021,Newcastle upon Tyne,9
+Requires improvement,E08000022,North Tyneside,3
+Requires improvement,E08000023,South Tyneside,6
+Requires improvement,E08000024,Sunderland,10
+Requires improvement,E08000025,Birmingham,64
+Requires improvement,E08000026,Coventry,14
+Requires improvement,E08000027,Dudley,19
+Requires improvement,E08000028,Sandwell,15
+Requires improvement,E08000029,Solihull,13
+Requires improvement,E08000030,Walsall,22
+Requires improvement,E08000031,Wolverhampton,20
+Requires improvement,E08000032,Bradford,43
+Requires improvement,E08000033,Calderdale,12
+Requires improvement,E08000034,Kirklees,20
+Requires improvement,E08000035,Leeds,34
+Requires improvement,E08000036,Wakefield,26
+Requires improvement,E08000037,Gateshead,11
+Requires improvement,E09000002,Barking and Dagenham,4
+Requires improvement,E09000003,Barnet,10
+Requires improvement,E09000004,Bexley,11
+Requires improvement,E09000005,Brent,4
+Requires improvement,E09000006,Bromley,9
+Requires improvement,E09000007,Camden,3
+Requires improvement,E09000008,Croydon,15
+Requires improvement,E09000009,Ealing,5
+Requires improvement,E09000010,Enfield,11
+Requires improvement,E09000011,Greenwich,6
+Requires improvement,E09000012,Hackney,9
+Requires improvement,E09000013,Hammersmith and Fulham,5
+Requires improvement,E09000014,Haringey,5
+Requires improvement,E09000015,Harrow,4
+Requires improvement,E09000016,Havering,8
+Requires improvement,E09000017,Hillingdon,13
+Requires improvement,E09000018,Hounslow,1
+Requires improvement,E09000019,Islington,5
+Requires improvement,E09000020,Kensington and Chelsea,2
+Requires improvement,E09000021,Kingston upon Thames,3
+Requires improvement,E09000022,Lambeth,5
+Requires improvement,E09000023,Lewisham,10
+Requires improvement,E09000024,Merton,2
+Requires improvement,E09000025,Newham,9
+Requires improvement,E09000026,Redbridge,6
+Requires improvement,E09000027,Richmond upon Thames,3
+Requires improvement,E09000028,Southwark,6
+Requires improvement,E09000029,Sutton,2
+Requires improvement,E09000030,Tower Hamlets,7
+Requires improvement,E09000031,Waltham Forest,4
+Requires improvement,E09000032,Wandsworth,8
+Requires improvement,E09000033,Westminster,6
+Serious Weaknesses,E06000003,Redcar and Cleveland,3
+Serious Weaknesses,E06000006,Halton,2
+Serious Weaknesses,E06000008,Blackburn with Darwen,1
+Serious Weaknesses,E06000010,"Kingston upon Hull, City of",1
+Serious Weaknesses,E06000011,East Riding of Yorkshire,2
+Serious Weaknesses,E06000015,Derby,2
+Serious Weaknesses,E06000016,Leicester,1
+Serious Weaknesses,E06000018,Nottingham,1
+Serious Weaknesses,E06000022,Bath and North East Somerset,1
+Serious Weaknesses,E06000024,North Somerset,2
+Serious Weaknesses,E06000026,Plymouth,3
+Serious Weaknesses,E06000027,Torbay,1
+Serious Weaknesses,E06000030,Swindon,1
+Serious Weaknesses,E06000031,Peterborough,3
+Serious Weaknesses,E06000033,Southend-on-Sea,1
+Serious Weaknesses,E06000034,Thurrock,2
+Serious Weaknesses,E06000035,Medway,1
+Serious Weaknesses,E06000039,Slough,1
+Serious Weaknesses,E06000041,Wokingham,1
+Serious Weaknesses,E06000043,Brighton and Hove,1
+Serious Weaknesses,E06000044,Portsmouth,1
+Serious Weaknesses,E06000045,Southampton,1
+Serious Weaknesses,E06000047,County Durham,3
+Serious Weaknesses,E06000049,Cheshire East,2
+Serious Weaknesses,E06000051,Shropshire,2
+Serious Weaknesses,E06000052,Cornwall,5
+Serious Weaknesses,E06000055,Bedford,1
+Serious Weaknesses,E06000057,Northumberland,3
+Serious Weaknesses,E06000059,Dorset,1
+Serious Weaknesses,E06000060,Buckinghamshire,2
+Serious Weaknesses,E06000062,West Northamptonshire,3
+Serious Weaknesses,E07000008,Cambridge,2
+Serious Weaknesses,E07000009,East Cambridgeshire,1
+Serious Weaknesses,E07000010,Fenland,3
+Serious Weaknesses,E07000012,South Cambridgeshire,2
+Serious Weaknesses,E07000026,Allerdale,1
+Serious Weaknesses,E07000028,Carlisle,1
+Serious Weaknesses,E07000029,Copeland,1
+Serious Weaknesses,E07000032,Amber Valley,1
+Serious Weaknesses,E07000033,Bolsover,1
+Serious Weaknesses,E07000034,Chesterfield,2
+Serious Weaknesses,E07000036,Erewash,1
+Serious Weaknesses,E07000037,High Peak,2
+Serious Weaknesses,E07000038,North East Derbyshire,1
+Serious Weaknesses,E07000045,Teignbridge,1
+Serious Weaknesses,E07000047,West Devon,1
+Serious Weaknesses,E07000061,Eastbourne,1
+Serious Weaknesses,E07000064,Rother,3
+Serious Weaknesses,E07000067,Braintree,4
+Serious Weaknesses,E07000069,Castle Point,1
+Serious Weaknesses,E07000070,Chelmsford,1
+Serious Weaknesses,E07000071,Colchester,2
+Serious Weaknesses,E07000073,Harlow,2
+Serious Weaknesses,E07000077,Uttlesford,1
+Serious Weaknesses,E07000079,Cotswold,1
+Serious Weaknesses,E07000080,Forest of Dean,1
+Serious Weaknesses,E07000082,Stroud,2
+Serious Weaknesses,E07000084,Basingstoke and Deane,3
+Serious Weaknesses,E07000085,East Hampshire,1
+Serious Weaknesses,E07000087,Fareham,1
+Serious Weaknesses,E07000091,New Forest,1
+Serious Weaknesses,E07000093,Test Valley,1
+Serious Weaknesses,E07000095,Broxbourne,1
+Serious Weaknesses,E07000098,Hertsmere,2
+Serious Weaknesses,E07000099,North Hertfordshire,2
+Serious Weaknesses,E07000106,Canterbury,1
+Serious Weaknesses,E07000112,Folkestone and Hythe,1
+Serious Weaknesses,E07000113,Swale,1
+Serious Weaknesses,E07000115,Tonbridge and Malling,1
+Serious Weaknesses,E07000119,Fylde,1
+Serious Weaknesses,E07000121,Lancaster,2
+Serious Weaknesses,E07000126,South Ribble,1
+Serious Weaknesses,E07000127,West Lancashire,1
+Serious Weaknesses,E07000129,Blaby,2
+Serious Weaknesses,E07000130,Charnwood,1
+Serious Weaknesses,E07000134,North West Leicestershire,2
+Serious Weaknesses,E07000137,East Lindsey,1
+Serious Weaknesses,E07000138,Lincoln,2
+Serious Weaknesses,E07000141,South Kesteven,3
+Serious Weaknesses,E07000143,Breckland,3
+Serious Weaknesses,E07000144,Broadland,1
+Serious Weaknesses,E07000145,Great Yarmouth,1
+Serious Weaknesses,E07000146,King's Lynn and West Norfolk,3
+Serious Weaknesses,E07000156,Wellingborough,2
+Serious Weaknesses,E07000163,Craven,2
+Serious Weaknesses,E07000164,Hambleton,1
+Serious Weaknesses,E07000165,Harrogate,2
+Serious Weaknesses,E07000167,Ryedale,2
+Serious Weaknesses,E07000168,Scarborough,2
+Serious Weaknesses,E07000170,Ashfield,3
+Serious Weaknesses,E07000171,Bassetlaw,1
+Serious Weaknesses,E07000172,Broxtowe,1
+Serious Weaknesses,E07000175,Newark and Sherwood,1
+Serious Weaknesses,E07000178,Oxford,1
+Serious Weaknesses,E07000180,Vale of White Horse,1
+Serious Weaknesses,E07000181,West Oxfordshire,1
+Serious Weaknesses,E07000189,South Somerset,1
+Serious Weaknesses,E07000192,Cannock Chase,1
+Serious Weaknesses,E07000193,East Staffordshire,2
+Serious Weaknesses,E07000195,Newcastle-under-Lyme,1
+Serious Weaknesses,E07000200,Babergh,3
+Serious Weaknesses,E07000202,Ipswich,2
+Serious Weaknesses,E07000203,Mid Suffolk,1
+Serious Weaknesses,E07000207,Elmbridge,1
+Serious Weaknesses,E07000210,Mole Valley,2
+Serious Weaknesses,E07000211,Reigate and Banstead,1
+Serious Weaknesses,E07000216,Waverley,1
+Serious Weaknesses,E07000217,Woking,1
+Serious Weaknesses,E07000219,Nuneaton and Bedworth,1
+Serious Weaknesses,E07000225,Chichester,2
+Serious Weaknesses,E07000229,Worthing,1
+Serious Weaknesses,E07000235,Malvern Hills,1
+Serious Weaknesses,E07000236,Redditch,1
+Serious Weaknesses,E07000237,Worcester,1
+Serious Weaknesses,E07000238,Wychavon,2
+Serious Weaknesses,E07000239,Wyre Forest,1
+Serious Weaknesses,E07000240,St Albans,1
+Serious Weaknesses,E07000241,Welwyn Hatfield,1
+Serious Weaknesses,E07000244,East Suffolk,3
+Serious Weaknesses,E07000245,West Suffolk,1
+Serious Weaknesses,E07000246,Somerset West and Taunton,4
+Serious Weaknesses,E08000003,Manchester,2
+Serious Weaknesses,E08000004,Oldham,1
+Serious Weaknesses,E08000005,Rochdale,2
+Serious Weaknesses,E08000006,Salford,2
+Serious Weaknesses,E08000007,Stockport,2
+Serious Weaknesses,E08000008,Tameside,3
+Serious Weaknesses,E08000009,Trafford,1
+Serious Weaknesses,E08000010,Wigan,3
+Serious Weaknesses,E08000012,Liverpool,1
+Serious Weaknesses,E08000013,St. Helens,1
+Serious Weaknesses,E08000014,Sefton,1
+Serious Weaknesses,E08000016,Barnsley,1
+Serious Weaknesses,E08000017,Doncaster,4
+Serious Weaknesses,E08000023,South Tyneside,1
+Serious Weaknesses,E08000024,Sunderland,1
+Serious Weaknesses,E08000025,Birmingham,10
+Serious Weaknesses,E08000026,Coventry,1
+Serious Weaknesses,E08000028,Sandwell,1
+Serious Weaknesses,E08000030,Walsall,2
+Serious Weaknesses,E08000032,Bradford,6
+Serious Weaknesses,E08000033,Calderdale,2
+Serious Weaknesses,E08000034,Kirklees,4
+Serious Weaknesses,E08000035,Leeds,7
+Serious Weaknesses,E08000036,Wakefield,1
+Serious Weaknesses,E08000037,Gateshead,2
+Serious Weaknesses,E09000006,Bromley,2
+Serious Weaknesses,E09000008,Croydon,2
+Serious Weaknesses,E09000010,Enfield,1
+Serious Weaknesses,E09000011,Greenwich,2
+Serious Weaknesses,E09000014,Haringey,1
+Serious Weaknesses,E09000016,Havering,1
+Serious Weaknesses,E09000017,Hillingdon,1
+Serious Weaknesses,E09000019,Islington,1
+Serious Weaknesses,E09000025,Newham,1
+Serious Weaknesses,E09000029,Sutton,1
+Serious Weaknesses,E09000031,Waltham Forest,1
+Special Measures,E06000001,Hartlepool,1
+Special Measures,E06000002,Middlesbrough,1
+Special Measures,E06000003,Redcar and Cleveland,3
+Special Measures,E06000004,Stockton-on-Tees,2
+Special Measures,E06000005,Darlington,1
+Special Measures,E06000006,Halton,3
+Special Measures,E06000007,Warrington,1
+Special Measures,E06000009,Blackpool,1
+Special Measures,E06000011,East Riding of Yorkshire,5
+Special Measures,E06000013,North Lincolnshire,1
+Special Measures,E06000014,York,4
+Special Measures,E06000015,Derby,11
+Special Measures,E06000016,Leicester,5
+Special Measures,E06000018,Nottingham,4
+Special Measures,E06000020,Telford and Wrekin,1
+Special Measures,E06000021,Stoke-on-Trent,1
+Special Measures,E06000022,Bath and North East Somerset,1
+Special Measures,E06000023,"Bristol, City of",11
+Special Measures,E06000024,North Somerset,1
+Special Measures,E06000025,South Gloucestershire,4
+Special Measures,E06000026,Plymouth,6
+Special Measures,E06000030,Swindon,6
+Special Measures,E06000031,Peterborough,2
+Special Measures,E06000032,Luton,1
+Special Measures,E06000033,Southend-on-Sea,1
+Special Measures,E06000034,Thurrock,1
+Special Measures,E06000035,Medway,5
+Special Measures,E06000036,Bracknell Forest,2
+Special Measures,E06000037,West Berkshire,1
+Special Measures,E06000038,Reading,3
+Special Measures,E06000041,Wokingham,3
+Special Measures,E06000042,Milton Keynes,8
+Special Measures,E06000045,Southampton,1
+Special Measures,E06000046,Isle of Wight,1
+Special Measures,E06000047,County Durham,4
+Special Measures,E06000049,Cheshire East,5
+Special Measures,E06000050,Cheshire West and Chester,4
+Special Measures,E06000051,Shropshire,5
+Special Measures,E06000052,Cornwall,8
+Special Measures,E06000053,Isles of Scilly,1
+Special Measures,E06000054,Wiltshire,11
+Special Measures,E06000055,Bedford,1
+Special Measures,E06000056,Central Bedfordshire,9
+Special Measures,E06000057,Northumberland,5
+Special Measures,E06000058,"Bournemouth, Christchurch and Poole",1
+Special Measures,E06000059,Dorset,14
+Special Measures,E06000060,Buckinghamshire,3
+Special Measures,E06000062,West Northamptonshire,2
+Special Measures,E07000004,Aylesbury Vale,1
+Special Measures,E07000005,Chiltern,1
+Special Measures,E07000006,South Bucks,3
+Special Measures,E07000007,Wycombe,4
+Special Measures,E07000009,East Cambridgeshire,3
+Special Measures,E07000010,Fenland,2
+Special Measures,E07000011,Huntingdonshire,3
+Special Measures,E07000012,South Cambridgeshire,1
+Special Measures,E07000026,Allerdale,1
+Special Measures,E07000027,Barrow-in-Furness,1
+Special Measures,E07000028,Carlisle,2
+Special Measures,E07000029,Copeland,2
+Special Measures,E07000032,Amber Valley,4
+Special Measures,E07000033,Bolsover,2
+Special Measures,E07000034,Chesterfield,2
+Special Measures,E07000035,Derbyshire Dales,1
+Special Measures,E07000037,High Peak,4
+Special Measures,E07000038,North East Derbyshire,2
+Special Measures,E07000039,South Derbyshire,3
+Special Measures,E07000040,East Devon,1
+Special Measures,E07000041,Exeter,4
+Special Measures,E07000043,North Devon,2
+Special Measures,E07000044,South Hams,2
+Special Measures,E07000046,Torridge,3
+Special Measures,E07000061,Eastbourne,2
+Special Measures,E07000063,Lewes,2
+Special Measures,E07000065,Wealden,2
+Special Measures,E07000067,Braintree,4
+Special Measures,E07000071,Colchester,2
+Special Measures,E07000072,Epping Forest,1
+Special Measures,E07000073,Harlow,2
+Special Measures,E07000075,Rochford,1
+Special Measures,E07000076,Tendring,4
+Special Measures,E07000079,Cotswold,2
+Special Measures,E07000080,Forest of Dean,4
+Special Measures,E07000081,Gloucester,6
+Special Measures,E07000082,Stroud,3
+Special Measures,E07000083,Tewkesbury,2
+Special Measures,E07000088,Gosport,1
+Special Measures,E07000090,Havant,1
+Special Measures,E07000094,Winchester,1
+Special Measures,E07000095,Broxbourne,1
+Special Measures,E07000096,Dacorum,2
+Special Measures,E07000098,Hertsmere,1
+Special Measures,E07000102,Three Rivers,1
+Special Measures,E07000107,Dartford,2
+Special Measures,E07000110,Maidstone,2
+Special Measures,E07000111,Sevenoaks,1
+Special Measures,E07000112,Folkestone and Hythe,1
+Special Measures,E07000113,Swale,1
+Special Measures,E07000114,Thanet,1
+Special Measures,E07000115,Tonbridge and Malling,1
+Special Measures,E07000117,Burnley,2
+Special Measures,E07000118,Chorley,1
+Special Measures,E07000120,Hyndburn,1
+Special Measures,E07000121,Lancaster,3
+Special Measures,E07000122,Pendle,3
+Special Measures,E07000125,Rossendale,1
+Special Measures,E07000126,South Ribble,1
+Special Measures,E07000127,West Lancashire,1
+Special Measures,E07000132,Hinckley and Bosworth,1
+Special Measures,E07000134,North West Leicestershire,1
+Special Measures,E07000136,Boston,1
+Special Measures,E07000137,East Lindsey,3
+Special Measures,E07000138,Lincoln,2
+Special Measures,E07000140,South Holland,6
+Special Measures,E07000141,South Kesteven,3
+Special Measures,E07000142,West Lindsey,2
+Special Measures,E07000143,Breckland,6
+Special Measures,E07000145,Great Yarmouth,1
+Special Measures,E07000146,King's Lynn and West Norfolk,1
+Special Measures,E07000147,North Norfolk,2
+Special Measures,E07000149,South Norfolk,2
+Special Measures,E07000150,Corby,2
+Special Measures,E07000152,East Northamptonshire,2
+Special Measures,E07000153,Kettering,1
+Special Measures,E07000154,Northampton,3
+Special Measures,E07000155,South Northamptonshire,1
+Special Measures,E07000163,Craven,1
+Special Measures,E07000164,Hambleton,4
+Special Measures,E07000165,Harrogate,2
+Special Measures,E07000166,Richmondshire,3
+Special Measures,E07000167,Ryedale,2
+Special Measures,E07000168,Scarborough,4
+Special Measures,E07000169,Selby,2
+Special Measures,E07000170,Ashfield,3
+Special Measures,E07000171,Bassetlaw,1
+Special Measures,E07000173,Gedling,1
+Special Measures,E07000174,Mansfield,3
+Special Measures,E07000175,Newark and Sherwood,2
+Special Measures,E07000177,Cherwell,3
+Special Measures,E07000178,Oxford,7
+Special Measures,E07000179,South Oxfordshire,1
+Special Measures,E07000180,Vale of White Horse,1
+Special Measures,E07000187,Mendip,2
+Special Measures,E07000188,Sedgemoor,5
+Special Measures,E07000189,South Somerset,6
+Special Measures,E07000192,Cannock Chase,1
+Special Measures,E07000193,East Staffordshire,2
+Special Measures,E07000194,Lichfield,2
+Special Measures,E07000195,Newcastle-under-Lyme,1
+Special Measures,E07000196,South Staffordshire,3
+Special Measures,E07000198,Staffordshire Moorlands,1
+Special Measures,E07000199,Tamworth,3
+Special Measures,E07000200,Babergh,4
+Special Measures,E07000202,Ipswich,1
+Special Measures,E07000203,Mid Suffolk,2
+Special Measures,E07000209,Guildford,1
+Special Measures,E07000210,Mole Valley,2
+Special Measures,E07000211,Reigate and Banstead,1
+Special Measures,E07000212,Runnymede,1
+Special Measures,E07000213,Spelthorne,1
+Special Measures,E07000216,Waverley,1
+Special Measures,E07000219,Nuneaton and Bedworth,3
+Special Measures,E07000220,Rugby,1
+Special Measures,E07000221,Stratford-on-Avon,3
+Special Measures,E07000222,Warwick,1
+Special Measures,E07000226,Crawley,1
+Special Measures,E07000228,Mid Sussex,1
+Special Measures,E07000229,Worthing,1
+Special Measures,E07000234,Bromsgrove,2
+Special Measures,E07000235,Malvern Hills,1
+Special Measures,E07000236,Redditch,3
+Special Measures,E07000237,Worcester,3
+Special Measures,E07000238,Wychavon,3
+Special Measures,E07000239,Wyre Forest,5
+Special Measures,E07000241,Welwyn Hatfield,2
+Special Measures,E07000242,East Hertfordshire,2
+Special Measures,E07000244,East Suffolk,4
+Special Measures,E07000245,West Suffolk,6
+Special Measures,E07000246,Somerset West and Taunton,3
+Special Measures,E08000001,Bolton,3
+Special Measures,E08000002,Bury,7
+Special Measures,E08000003,Manchester,6
+Special Measures,E08000004,Oldham,5
+Special Measures,E08000005,Rochdale,2
+Special Measures,E08000006,Salford,4
+Special Measures,E08000007,Stockport,4
+Special Measures,E08000008,Tameside,3
+Special Measures,E08000009,Trafford,2
+Special Measures,E08000010,Wigan,3
+Special Measures,E08000011,Knowsley,2
+Special Measures,E08000012,Liverpool,6
+Special Measures,E08000013,St. Helens,1
+Special Measures,E08000014,Sefton,3
+Special Measures,E08000015,Wirral,2
+Special Measures,E08000016,Barnsley,4
+Special Measures,E08000017,Doncaster,11
+Special Measures,E08000018,Rotherham,9
+Special Measures,E08000019,Sheffield,6
+Special Measures,E08000021,Newcastle upon Tyne,5
+Special Measures,E08000022,North Tyneside,2
+Special Measures,E08000024,Sunderland,5
+Special Measures,E08000025,Birmingham,21
+Special Measures,E08000026,Coventry,3
+Special Measures,E08000027,Dudley,8
+Special Measures,E08000028,Sandwell,7
+Special Measures,E08000029,Solihull,5
+Special Measures,E08000030,Walsall,3
+Special Measures,E08000031,Wolverhampton,7
+Special Measures,E08000032,Bradford,14
+Special Measures,E08000033,Calderdale,6
+Special Measures,E08000034,Kirklees,9
+Special Measures,E08000035,Leeds,10
+Special Measures,E08000036,Wakefield,3
+Special Measures,E08000037,Gateshead,1
+Special Measures,E09000004,Bexley,1
+Special Measures,E09000005,Brent,2
+Special Measures,E09000008,Croydon,5
+Special Measures,E09000009,Ealing,3
+Special Measures,E09000010,Enfield,2
+Special Measures,E09000012,Hackney,3
+Special Measures,E09000013,Hammersmith and Fulham,1
+Special Measures,E09000015,Harrow,2
+Special Measures,E09000016,Havering,3
+Special Measures,E09000017,Hillingdon,1
+Special Measures,E09000019,Islington,2
+Special Measures,E09000022,Lambeth,2
+Special Measures,E09000024,Merton,2
+Special Measures,E09000025,Newham,3
+Special Measures,E09000027,Richmond upon Thames,1
+Special Measures,E09000028,Southwark,2
+Special Measures,E09000029,Sutton,4
+Special Measures,E09000030,Tower Hamlets,2
+Special Measures,E09000032,Wandsworth,3
+Special Measures,E09000033,Westminster,1
+NA,9999,NA,1306
+NA,E06000001,Hartlepool,37
+NA,E06000002,Middlesbrough,78
+NA,E06000003,Redcar and Cleveland,89
+NA,E06000004,Stockton-on-Tees,94
+NA,E06000005,Darlington,61
+NA,E06000006,Halton,60
+NA,E06000007,Warrington,67
+NA,E06000008,Blackburn with Darwen,53
+NA,E06000009,Blackpool,52
+NA,E06000010,"Kingston upon Hull, City of",110
+NA,E06000011,East Riding of Yorkshire,84
+NA,E06000012,North East Lincolnshire,103
+NA,E06000013,North Lincolnshire,58
+NA,E06000014,York,75
+NA,E06000015,Derby,111
+NA,E06000016,Leicester,116
+NA,E06000017,Rutland,24
+NA,E06000018,Nottingham,169
+NA,E06000019,"Herefordshire, County of",67
+NA,E06000020,Telford and Wrekin,80
+NA,E06000021,Stoke-on-Trent,130
+NA,E06000022,Bath and North East Somerset,106
+NA,E06000023,"Bristol, City of",206
+NA,E06000024,North Somerset,91
+NA,E06000025,South Gloucestershire,80
+NA,E06000026,Plymouth,117
+NA,E06000027,Torbay,58
+NA,E06000030,Swindon,101
+NA,E06000031,Peterborough,89
+NA,E06000032,Luton,68
+NA,E06000033,Southend-on-Sea,63
+NA,E06000034,Thurrock,77
+NA,E06000035,Medway,108
+NA,E06000036,Bracknell Forest,30
+NA,E06000037,West Berkshire,50
+NA,E06000038,Reading,52
+NA,E06000039,Slough,55
+NA,E06000040,Windsor and Maidenhead,59
+NA,E06000041,Wokingham,61
+NA,E06000042,Milton Keynes,94
+NA,E06000043,Brighton and Hove,65
+NA,E06000044,Portsmouth,73
+NA,E06000045,Southampton,77
+NA,E06000046,Isle of Wight,47
+NA,E06000047,County Durham,201
+NA,E06000049,Cheshire East,163
+NA,E06000050,Cheshire West and Chester,148
+NA,E06000051,Shropshire,149
+NA,E06000052,Cornwall,240
+NA,E06000053,Isles of Scilly,7
+NA,E06000054,Wiltshire,228
+NA,E06000055,Bedford,70
+NA,E06000056,Central Bedfordshire,97
+NA,E06000057,Northumberland,143
+NA,E06000058,"Bournemouth, Christchurch and Poole",124
+NA,E06000059,Dorset,158
+NA,E06000060,Buckinghamshire,71
+NA,E06000061,North Northamptonshire,38
+NA,E06000062,West Northamptonshire,41
+NA,E07000004,Aylesbury Vale,37
+NA,E07000005,Chiltern,24
+NA,E07000006,South Bucks,19
+NA,E07000007,Wycombe,52
+NA,E07000008,Cambridge,51
+NA,E07000009,East Cambridgeshire,31
+NA,E07000010,Fenland,40
+NA,E07000011,Huntingdonshire,56
+NA,E07000012,South Cambridgeshire,44
+NA,E07000026,Allerdale,37
+NA,E07000027,Barrow-in-Furness,22
+NA,E07000028,Carlisle,53
+NA,E07000029,Copeland,25
+NA,E07000030,Eden,18
+NA,E07000031,South Lakeland,43
+NA,E07000032,Amber Valley,30
+NA,E07000033,Bolsover,20
+NA,E07000034,Chesterfield,35
+NA,E07000035,Derbyshire Dales,20
+NA,E07000036,Erewash,49
+NA,E07000037,High Peak,30
+NA,E07000038,North East Derbyshire,24
+NA,E07000039,South Derbyshire,22
+NA,E07000040,East Devon,47
+NA,E07000041,Exeter,46
+NA,E07000042,Mid Devon,43
+NA,E07000043,North Devon,37
+NA,E07000044,South Hams,38
+NA,E07000045,Teignbridge,56
+NA,E07000046,Torridge,28
+NA,E07000047,West Devon,24
+NA,E07000061,Eastbourne,28
+NA,E07000062,Hastings,40
+NA,E07000063,Lewes,37
+NA,E07000064,Rother,35
+NA,E07000065,Wealden,38
+NA,E07000066,Basildon,70
+NA,E07000067,Braintree,48
+NA,E07000068,Brentwood,31
+NA,E07000069,Castle Point,38
+NA,E07000070,Chelmsford,58
+NA,E07000071,Colchester,49
+NA,E07000072,Epping Forest,56
+NA,E07000073,Harlow,58
+NA,E07000074,Maldon,16
+NA,E07000075,Rochford,30
+NA,E07000076,Tendring,35
+NA,E07000077,Uttlesford,26
+NA,E07000078,Cheltenham,41
+NA,E07000079,Cotswold,35
+NA,E07000080,Forest of Dean,38
+NA,E07000081,Gloucester,48
+NA,E07000082,Stroud,40
+NA,E07000083,Tewkesbury,29
+NA,E07000084,Basingstoke and Deane,34
+NA,E07000085,East Hampshire,24
+NA,E07000086,Eastleigh,21
+NA,E07000087,Fareham,17
+NA,E07000088,Gosport,17
+NA,E07000089,Hart,12
+NA,E07000090,Havant,28
+NA,E07000091,New Forest,36
+NA,E07000092,Rushmoor,24
+NA,E07000093,Test Valley,24
+NA,E07000094,Winchester,25
+NA,E07000095,Broxbourne,33
+NA,E07000096,Dacorum,49
+NA,E07000098,Hertsmere,41
+NA,E07000099,North Hertfordshire,35
+NA,E07000102,Three Rivers,26
+NA,E07000103,Watford,26
+NA,E07000105,Ashford,42
+NA,E07000106,Canterbury,57
+NA,E07000107,Dartford,46
+NA,E07000108,Dover,47
+NA,E07000109,Gravesham,45
+NA,E07000110,Maidstone,56
+NA,E07000111,Sevenoaks,61
+NA,E07000112,Folkestone and Hythe,38
+NA,E07000113,Swale,62
+NA,E07000114,Thanet,56
+NA,E07000115,Tonbridge and Malling,40
+NA,E07000116,Tunbridge Wells,44
+NA,E07000117,Burnley,46
+NA,E07000118,Chorley,17
+NA,E07000119,Fylde,8
+NA,E07000120,Hyndburn,14
+NA,E07000121,Lancaster,22
+NA,E07000122,Pendle,22
+NA,E07000123,Preston,37
+NA,E07000124,Ribble Valley,11
+NA,E07000125,Rossendale,14
+NA,E07000126,South Ribble,15
+NA,E07000127,West Lancashire,35
+NA,E07000128,Wyre,15
+NA,E07000129,Blaby,33
+NA,E07000130,Charnwood,61
+NA,E07000131,Harborough,33
+NA,E07000132,Hinckley and Bosworth,39
+NA,E07000133,Melton,26
+NA,E07000134,North West Leicestershire,25
+NA,E07000135,Oadby and Wigston,21
+NA,E07000136,Boston,24
+NA,E07000137,East Lindsey,58
+NA,E07000138,Lincoln,44
+NA,E07000139,North Kesteven,41
+NA,E07000140,South Holland,30
+NA,E07000141,South Kesteven,52
+NA,E07000142,West Lindsey,41
+NA,E07000143,Breckland,67
+NA,E07000144,Broadland,33
+NA,E07000145,Great Yarmouth,43
+NA,E07000146,King's Lynn and West Norfolk,71
+NA,E07000147,North Norfolk,37
+NA,E07000148,Norwich,71
+NA,E07000149,South Norfolk,39
+NA,E07000150,Corby,33
+NA,E07000151,Daventry,25
+NA,E07000152,East Northamptonshire,32
+NA,E07000153,Kettering,75
+NA,E07000154,Northampton,71
+NA,E07000155,South Northamptonshire,28
+NA,E07000156,Wellingborough,30
+NA,E07000163,Craven,19
+NA,E07000164,Hambleton,27
+NA,E07000165,Harrogate,58
+NA,E07000166,Richmondshire,20
+NA,E07000167,Ryedale,19
+NA,E07000168,Scarborough,36
+NA,E07000169,Selby,30
+NA,E07000170,Ashfield,31
+NA,E07000171,Bassetlaw,48
+NA,E07000172,Broxtowe,45
+NA,E07000173,Gedling,36
+NA,E07000174,Mansfield,65
+NA,E07000175,Newark and Sherwood,55
+NA,E07000176,Rushcliffe,35
+NA,E07000177,Cherwell,53
+NA,E07000178,Oxford,88
+NA,E07000179,South Oxfordshire,49
+NA,E07000180,Vale of White Horse,64
+NA,E07000181,West Oxfordshire,49
+NA,E07000187,Mendip,38
+NA,E07000188,Sedgemoor,63
+NA,E07000189,South Somerset,70
+NA,E07000192,Cannock Chase,41
+NA,E07000193,East Staffordshire,49
+NA,E07000194,Lichfield,37
+NA,E07000195,Newcastle-under-Lyme,58
+NA,E07000196,South Staffordshire,32
+NA,E07000197,Stafford,43
+NA,E07000198,Staffordshire Moorlands,58
+NA,E07000199,Tamworth,35
+NA,E07000200,Babergh,35
+NA,E07000202,Ipswich,52
+NA,E07000203,Mid Suffolk,38
+NA,E07000207,Elmbridge,50
+NA,E07000208,Epsom and Ewell,29
+NA,E07000209,Guildford,62
+NA,E07000210,Mole Valley,38
+NA,E07000211,Reigate and Banstead,58
+NA,E07000212,Runnymede,31
+NA,E07000213,Spelthorne,33
+NA,E07000214,Surrey Heath,40
+NA,E07000215,Tandridge,43
+NA,E07000216,Waverley,65
+NA,E07000217,Woking,51
+NA,E07000218,North Warwickshire,50
+NA,E07000219,Nuneaton and Bedworth,64
+NA,E07000220,Rugby,55
+NA,E07000221,Stratford-on-Avon,63
+NA,E07000222,Warwick,55
+NA,E07000223,Adur,24
+NA,E07000224,Arun,26
+NA,E07000225,Chichester,44
+NA,E07000226,Crawley,42
+NA,E07000227,Horsham,30
+NA,E07000228,Mid Sussex,47
+NA,E07000229,Worthing,18
+NA,E07000234,Bromsgrove,23
+NA,E07000235,Malvern Hills,46
+NA,E07000236,Redditch,40
+NA,E07000237,Worcester,48
+NA,E07000238,Wychavon,37
+NA,E07000239,Wyre Forest,78
+NA,E07000240,St Albans,46
+NA,E07000241,Welwyn Hatfield,30
+NA,E07000242,East Hertfordshire,45
+NA,E07000243,Stevenage,26
+NA,E07000244,East Suffolk,99
+NA,E07000245,West Suffolk,64
+NA,E07000246,Somerset West and Taunton,66
+NA,E08000001,Bolton,78
+NA,E08000002,Bury,54
+NA,E08000003,Manchester,228
+NA,E08000004,Oldham,95
+NA,E08000005,Rochdale,104
+NA,E08000006,Salford,129
+NA,E08000007,Stockport,113
+NA,E08000008,Tameside,68
+NA,E08000009,Trafford,72
+NA,E08000010,Wigan,116
+NA,E08000011,Knowsley,71
+NA,E08000012,Liverpool,294
+NA,E08000013,St. Helens,66
+NA,E08000014,Sefton,79
+NA,E08000015,Wirral,80
+NA,E08000016,Barnsley,130
+NA,E08000017,Doncaster,176
+NA,E08000018,Rotherham,124
+NA,E08000019,Sheffield,238
+NA,E08000021,Newcastle upon Tyne,126
+NA,E08000022,North Tyneside,56
+NA,E08000023,South Tyneside,72
+NA,E08000024,Sunderland,125
+NA,E08000025,Birmingham,391
+NA,E08000026,Coventry,152
+NA,E08000027,Dudley,67
+NA,E08000028,Sandwell,126
+NA,E08000029,Solihull,72
+NA,E08000030,Walsall,98
+NA,E08000031,Wolverhampton,126
+NA,E08000032,Bradford,245
+NA,E08000033,Calderdale,90
+NA,E08000034,Kirklees,141
+NA,E08000035,Leeds,454
+NA,E08000036,Wakefield,186
+NA,E08000037,Gateshead,79
+NA,E09000001,City of London,5
+NA,E09000002,Barking and Dagenham,50
+NA,E09000003,Barnet,100
+NA,E09000004,Bexley,93
+NA,E09000005,Brent,97
+NA,E09000006,Bromley,131
+NA,E09000007,Camden,62
+NA,E09000008,Croydon,176
+NA,E09000009,Ealing,104
+NA,E09000010,Enfield,73
+NA,E09000011,Greenwich,92
+NA,E09000012,Hackney,86
+NA,E09000013,Hammersmith and Fulham,79
+NA,E09000014,Haringey,82
+NA,E09000015,Harrow,75
+NA,E09000016,Havering,75
+NA,E09000017,Hillingdon,72
+NA,E09000018,Hounslow,81
+NA,E09000019,Islington,61
+NA,E09000020,Kensington and Chelsea,54
+NA,E09000021,Kingston upon Thames,34
+NA,E09000022,Lambeth,109
+NA,E09000023,Lewisham,57
+NA,E09000024,Merton,64
+NA,E09000025,Newham,90
+NA,E09000026,Redbridge,74
+NA,E09000027,Richmond upon Thames,44
+NA,E09000028,Southwark,84
+NA,E09000029,Sutton,53
+NA,E09000030,Tower Hamlets,70
+NA,E09000031,Waltham Forest,82
+NA,E09000032,Wandsworth,93
+NA,E09000033,Westminster,76
+NA,L99999999,Channel Islands,87
+NA,M99999999,Isle of Man,46
+NA,S12000006,Dumfries and Galloway,2
+NA,S12000014,Falkirk,1
+NA,S12000033,Aberdeen City,1
+NA,S12000036,City of Edinburgh,2
+NA,S12000047,Fife,2
+NA,S12000048,Perth and Kinross,1
+NA,W06000001,Isle of Anglesey,64
+NA,W06000002,Gwynedd,139
+NA,W06000003,Conwy,86
+NA,W06000004,Denbighshire,87
+NA,W06000005,Flintshire,110
+NA,W06000006,Wrexham,114
+NA,W06000008,Ceredigion,99
+NA,W06000009,Pembrokeshire,118
+NA,W06000010,Carmarthenshire,179
+NA,W06000011,Swansea,140
+NA,W06000012,Neath Port Talbot,105
+NA,W06000013,Bridgend,92
+NA,W06000014,Vale of Glamorgan,84
+NA,W06000015,Cardiff,198
+NA,W06000016,Rhondda Cynon Taf,197
+NA,W06000018,Caerphilly,130
+NA,W06000019,Blaenau Gwent,49
+NA,W06000020,Torfaen,68
+NA,W06000021,Monmouthshire,64
+NA,W06000022,Newport,99
+NA,W06000023,Powys,157
+NA,W06000024,Merthyr Tydfil,51
